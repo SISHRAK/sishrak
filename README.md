@@ -55,7 +55,7 @@
   ![CLion](https://img.shields.io/badge/CLion-crimson?style=for-the-badge&logo=clion&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCv-yellow?style=for-the-badge&logo=opencv&logoColor=white)
   ![Binance](https://img.shields.io/badge/Binance-black?style=for-the-badge&logo=binance&logoColor=white)
-
+  ![Pytorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white)
 <br>
 
 - **Extras**:
