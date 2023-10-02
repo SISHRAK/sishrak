@@ -13,13 +13,12 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
-- A student from Russia, Saint-P, HSE SPB, CS
-- Currently learning ML, Back-end, Algorithms
-- Also work with Binance-robot project https://t.me/CEB_CO
+- A student from Russia, Saint-P, HSE SPB, CS 2022-2023
+- Now studying in ITMO, Computer engineering, 2023 - 2026
+- Currently learning ML, Back-end, Algorithms, Front-end
+- BARASH IT 
 
 
 <br><br>
@@ -35,6 +34,12 @@
 
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=yellow)
+  ![JavaScript](https://img.shields.io/badge/javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
+  ![PHP](https://img.shields.io/badge/php%20-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![HTML](https://img.shields.io/badge/html%20-%2314354C.svg?style=for-the-badge&logo=html&logoColor=yellow)
+  ![CSS](https://img.shields.io/badge/css%20-%2314354C.svg?style=for-the-badge&logo=css&logoColor=yellow)
+  
 
 <br>   
 
@@ -54,7 +59,6 @@
   ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
   ![CLion](https://img.shields.io/badge/CLion-crimson?style=for-the-badge&logo=clion&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCv-yellow?style=for-the-badge&logo=opencv&logoColor=white)
-  ![Binance](https://img.shields.io/badge/Binance-black?style=for-the-badge&logo=binance&logoColor=white)
   ![Pytorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white)
 <br>
 
@@ -62,6 +66,7 @@
 
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white)
 
 
 </p>
