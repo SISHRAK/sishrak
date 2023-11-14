@@ -16,9 +16,9 @@
 <br>
 
 - A student from Russia, Saint-P, HSE SPB, CS 2022-2023
-- Now studying in ITMO, Computer engineering, 2023 - 2026
+- Now studying in ITMO, Software engineering & Computer Science, BSc 2023 - 2026
 - Currently learning ML, Back-end, Algorithms, Front-end
-- BARASH IT 
+
 
 
 <br><br>
